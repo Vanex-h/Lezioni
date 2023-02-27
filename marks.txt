@@ -1,0 +1,12 @@
+Mai ,20 ,422 ,29
+Rora ,10 ,1234 ,12
+Ruburi ,12 ,254 ,34
+Vanessa HG ,12 ,231 ,21
+Deu ,13 ,321 ,3
+Emmanuel ,16 ,98832 ,43
+Manudi ,12 ,2345 ,45
+Vanessssa ,9 ,5432 ,49
+Ineza Axelle ,9 ,1233 ,32
+Maya ,10 ,2334 ,28
+Imana, 14, 789, 50
+giovanni ,9 ,1009 ,42.543
