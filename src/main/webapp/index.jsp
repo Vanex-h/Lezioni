@@ -9,10 +9,12 @@
 </h1>
 <br/>
 <a href="hello-servlet" style="color: brown">Hello Servlet</a>
+
+
 <form>
     <label>Hello!</label>
     <input type="text" >
-    <button>Apotre</button>
+    <button>Click me</button>
 </form>
 </body>
 </html>
