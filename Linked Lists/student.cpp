@@ -30,7 +30,7 @@ int main(){
 	s3->student=s4;
 	s4->student=s5;
 
-	Student *h= s1;
+	Student h= *s1;
 	display(h);
 	
 	
